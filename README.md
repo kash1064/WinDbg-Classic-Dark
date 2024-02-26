@@ -14,3 +14,5 @@
 - Or, set as default theme via change "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windbg\Workspaces\Default"(Use "WinDbg-Classic-Dark.reg").
 
 - If you use WinDbg Next, check `%LOCALAPPDATA%\DBG\Targets`.
+
+[WinDbgX undocumented workspace options](https://blahcat.github.io/posts/2022/07/17/windbgx-undocumented-workspace-options.html)
